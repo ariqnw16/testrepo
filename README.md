@@ -1,3 +1,4 @@
 # testrepo
 
-this is a troll repo (new repo)
+this is a testrepo
+mainly used for learning and storing stuff
